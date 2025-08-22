@@ -70,3 +70,27 @@ java DeepFocus
 🪶 Lightweight, portable, and open-source
 
 ---
+
+## 🔮 Future Enhancements
+
+Here are some planned features and ideas for upcoming versions of **DeepFocus**:
+
+- 🔔 **End-of-Session Alerts**  
+  Add sound or desktop notifications when a session ends.  
+
+- ⏳ **Custom Session Durations**  
+  Let users set their own focus/break times instead of fixed 90:15:30.  
+
+- 📊 **Advanced Statistics Dashboard**  
+  Weekly/monthly charts of focus hours, cycles completed, and productivity trends.  
+
+- 📌 **Pinned & Prioritized Tasks**  
+  Mark high-priority tasks and pin them for quick access.  
+
+- 🔄 **Auto-Resume Mode**  
+  Option to automatically start the next focus/break session without manual clicks.  
+
+- 🎨 **Custom Themes**  
+  Allow users to pick their own colors and styles beyond light/dark mode.  
+
+---
